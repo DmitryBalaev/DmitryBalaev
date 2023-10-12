@@ -27,4 +27,6 @@
 
   ##
   <h3>🔥Статистика</h3>
-  [GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrybalaev&show_icons=true&theme=transparent)
+  <img align='left' height='200px' src='https://github-readme-stats.vercel.app/api?username=dmitrybalaev&show_icons=true&theme=transparent&locale=en'/>
+  <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitrybalaev&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
+
