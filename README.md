@@ -2,7 +2,7 @@
 
 
 <p align='center'>Я начинающий Frontend-разработчик</p>
-<img height="370" width="370" align='right' src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966'>
+<img height="300" width="300" align='right' src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966'>
 <h3>🎯 Мои цели</h3>
   - Писать чистый и читабельный код <br>
   - Не остававливаться в изучении новых технологий <br>
@@ -27,6 +27,6 @@
 
   ##
   <h3>🔥Статистика</h3>
-  <img align='left' height='200px' src='https://github-readme-stats.vercel.app/api?username=dmitrybalaev&show_icons=true&theme=transparent&locale=en'/>
-  <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitrybalaev&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
+  <img align='left' height='200px' width='420' src='https://github-readme-stats.vercel.app/api?username=dmitrybalaev&show_icons=true&theme=transparent&locale=en'/>
+  <img align="left" height='200px' width='420' src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitrybalaev&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
 
