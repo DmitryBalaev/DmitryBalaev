@@ -27,6 +27,6 @@
 
   ##
   <h3>🔥Статистика</h3>
-  <img align='left' height='200px' width='420' src='https://github-readme-stats.vercel.app/api?username=dmitrybalaev&show_icons=true&theme=transparent&locale=en'/>
-  <img align="right" height='200px' width='420' src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitrybalaev&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
+  <img align='left' height='200px' width='380' src='https://github-readme-stats.vercel.app/api?username=dmitrybalaev&show_icons=true&theme=transparent&locale=en'/>
+  <img align="right" height='200px' width='380' src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitrybalaev&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
 
